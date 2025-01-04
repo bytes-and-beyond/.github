@@ -1,8 +1,8 @@
-# Batata Projects
+# Bytes and Beyond
 
 ## Hi there 👋
 
-Welcome to Batata Projects!
+Welcome to Bytes and Beyond!
 
 - Leading a variety of initiatives, from web applications to bots.
 - Future plans include mobile app development, portfolio creation, data analysis, machine learning projects, and more!
@@ -22,7 +22,7 @@ Welcome to Batata Projects!
 ### Contributors
 
 - [Jad Shaker](https://github.com/jadshaker)
-- [HadiMchawrab](https://github.com/HadiMchawrab)
-- [Rayan Fakhreddine](https://github.com/Rayan28461)
-- [hamzaatout](https://github.com/hamzaatout)
 - [Fadi Baghdadi](https://github.com/Fadibagh)
+- [Hadi Mchawrab](https://github.com/HadiMchawrab)
+- [Hamza Atout](https://github.com/hamzaatout)
+- [Rayan Fakhreddine](https://github.com/Rayan28461)
